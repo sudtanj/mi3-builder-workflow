@@ -1,5 +1,5 @@
-PADAVAN_REPO="https://gitlab.com/dm38/padavan-ng.git"
-PADAVAN_BRANCH="master"
+PADAVAN_REPO="http://gitlab.com/hadzhioglu/padavan-ng.git"
+PADAVAN_BRANCH="stable_branch"
 PADAVAN_COMMIT="HEAD"
 PADAVAN_TOOLCHAIN_URL="https://gitlab.com/api/v4/projects/hadzhioglu%2Fpadavan-ng/packages/generic/toolchain/latest/toolchain.tzst"
 
